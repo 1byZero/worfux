@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include worfux *.css
+recursive-include worfux *.csv
+recursive-include worfux *.html
+recursive-include worfux *.ico
+recursive-include worfux *.js
+recursive-include worfux *.json
+recursive-include worfux *.md
+recursive-include worfux *.png
+recursive-include worfux *.py
+recursive-include worfux *.svg
+recursive-include worfux *.txt
+recursive-exclude worfux *.pyc
