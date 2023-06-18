@@ -1,5 +1,8 @@
 # Worfux - Frappe + Vue 3 + Frappe UI Starter App
 
+![Alt Text](https://github.com/1byZero/worfux/blob/main/worfux/public/ver1/img/macbook.webp)
+
+
 This template should help get you started developing custom frontend for Frappe using this custom app with Vue 3 and the Frappe UI package.
 
 ## Usage
